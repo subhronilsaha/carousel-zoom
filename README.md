@@ -1,4 +1,4 @@
-# Atlys iOS Assignment: Custom Carousel with Zoom
+# Custom Carousel with Zoom
 
 - This is a dynamically sized carousel view with centered zoom enabled.
 - The images are being fetched from an API
